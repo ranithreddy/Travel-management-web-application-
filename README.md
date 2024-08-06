@@ -46,14 +46,19 @@ Software Requirement
 
 Installation Steps
 
-1. Download zip file and Unzip file on your local server.
-2. Put this file inside "c:/wamp/www/" .
+1. Download the zip file and Unzip file on your local server.
+2. Put this file inside "c:/wamp/www/".
 3. Database Configuration
 Open phpmyadmin
-Create Database named travel.
-Import database oes_db.sql from downloaded folder(inside database)
-4. Open Your browser put inside "http://localhost/travel/"
+Create a Database named travel.
+Import database travel.sql from the downloaded folder(inside the database)
+4. Open Your browser and put inside "http://localhost/travel/"
 
 Admin Login Details
 Login Id: admin
 Password: admin
+
+
+
+Output Screen:
+![image](https://github.com/user-attachments/assets/bcdd83fc-a205-4ab4-8321-6a7e9d711836)
